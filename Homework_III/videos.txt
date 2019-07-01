@@ -1,0 +1,23 @@
+D#Inside Job#6480#economics
+M#A Beautiful Mind#7800#biography
+D#Michael Moore in TrumpLand#4380#politics
+S#End Times#2760#Breaking Bad#4#12
+M#Dr. Strangelove#5640#comedy
+S#Bart Gets a 'Z'#1800#The Simpsons#21#2
+S#The Great Wife Hope#1800#The Simpsons#21#3
+M#Ice Age#4860#animation
+D#An Inconvenient Truth#5820#economics
+D#Super Size Me#5880#society
+S#The Big Bran Hypothesis#1020#The Big Bang Theory#1#2
+S#Pilot#1080#The Big Bang Theory#1#1
+M#The Theory of Everything#7380#biography
+S#Homer the Whopper#1800#The Simpsons#21#1
+M#Back to the Future#6960#science-fiction
+M#Pulp Fiction#9240#action
+M#The Shining#7140#horror
+S#The Red Woman#3000#Game of Thrones#6#1
+S#Home#3240#Game of Thrones#6#2
+S#Oathbreaker#3120#Game of Thrones#6#3
+S#Book of the Stranger#3540#Game of Thrones#6#4
+S#The Door#3420#Game of Thrones#6#5
+D#Fahrenheit 9/11#7320#politics
