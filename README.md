@@ -10,6 +10,6 @@ In a nutshell, this course was intended to give the students a primer in the C# 
 
 ### Contents
 
-Each folder contains sources alongside with assignments and eventual companion files. Final project (soon added) folder, contains solely sources and two folders: input and output. Whilst HWs were coded with a simple text editor (Notepad++) and compiled with the `mono` C# compiler, final project codes were crafter using Visual Studio 2017 Community edition, hence the folders architecture is slightly come complex. These contain, among other things, all of the dependencies to run the program, from the aforementioned framework (listed in the Readme.txt). The folder architecture is not respected, only sources and the report.
+Each folder contains sources alongside with assignments and eventual companion files. Final project (soon added) folder, contains solely sources and two folders: input and output. Whilst HWs were coded with a simple text editor (Notepad++) and compiled with the `mono` C# compiler, final project codes were crafter using Visual Studio 2017 Community edition, hence the folders architecture is slightly come complex. These contain, among other things, all of the dependencies to run the program, from the aforementioned framework (listed in the Readme.txt). The folder architecture is not respected, only sources and the report are present.
 
 **Important**: as said, Final project was a team work. In the report all of the members are listed.
