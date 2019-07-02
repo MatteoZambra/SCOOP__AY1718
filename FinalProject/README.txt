@@ -30,7 +30,7 @@
 					        	- Drop  : which IS NOW EMPTY, but other folders will be created
 					        	          during the execution of the program
 					        			  
-					        			  IMPORTANT: Source\ and Drop\ must NOT be modified/deleted
+					        	IMPORTANT: Source\ and Drop\ must NOT be modified/deleted
 					        			
 			- MLProj2018    :: which contains 
 			
@@ -57,9 +57,9 @@
 	The correct run needs the following installations (as is given, in MLProj2018.sln have been left ONLY THOSE REFERENCES
 	which are present already in a new Visual Studio Solution)
 	
-		- Accord.3.8.0								(manually installed)
+		- Accord.3.8.0						(manually installed)
 		
-		- Accord.Controls.3.8.0						(manually installed)
+		- Accord.Controls.3.8.0					(manually installed)
 		
 		- Accord.Extensions.Core.3.0.1
 		
@@ -67,7 +67,7 @@
 		
 		- Accord.LachineLearning.GPL.3.8.0			(manually installed)
 		
-		- Accord.IO.3.8.0							(manually installed)
+		- Accord.IO.3.8.0					(manually installed)
 		
 		- Accord.Math.3.8.0
 		
