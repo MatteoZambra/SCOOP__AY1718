@@ -1,7 +1,7 @@
 # Assignments for the Course _Scientific Computing and Object Oriented Programming_
 
 ### Purpose of this repo
-Simply put, since I can not pound on my chest with some prior professional experience (still got any), this samples are intended to give an idea of my work, my mental setting and so forth.
+Since I still have no professional achievements, this samples are intended to give an idea of my work, my mental setting and so forth.
 
 ### Course held at the [University of Padova](https://www.unipd.it/) for the [Mathematical Engineering](https://www.unipd.it/en/mathematical-engineering) MSc programme.
 
